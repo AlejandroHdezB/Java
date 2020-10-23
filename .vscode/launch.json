@@ -1,0 +1,336 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Op2<OperadoresLogicos>",
+            "request": "launch",
+            "mainClass": "Op2",
+            "projectName": "OperadoresLogicos"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Op3<OperadoresLogicos>",
+            "request": "launch",
+            "mainClass": "Op3",
+            "projectName": "OperadoresLogicos"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Op4<OperadoresLogicos>",
+            "request": "launch",
+            "mainClass": "Op4",
+            "projectName": "OperadoresLogicos"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Op5<OperadoresLogicos>",
+            "request": "launch",
+            "mainClass": "Op5",
+            "projectName": "OperadoresLogicos"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Op6<OperadoresLogicos>",
+            "request": "launch",
+            "mainClass": "Op6",
+            "projectName": "OperadoresLogicos"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Op7<OperadoresLogicos>",
+            "request": "launch",
+            "mainClass": "Op7",
+            "projectName": "OperadoresLogicos"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-OperadoresLogicos<OperadoresLogicos>",
+            "request": "launch",
+            "mainClass": "OperadoresLogicos",
+            "projectName": "OperadoresLogicos"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-P101<Proyecto10>",
+            "request": "launch",
+            "mainClass": "P101",
+            "projectName": "Proyecto10"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-P102<Proyecto10>",
+            "request": "launch",
+            "mainClass": "P102",
+            "projectName": "Proyecto10"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-P103<Proyecto10>",
+            "request": "launch",
+            "mainClass": "P103",
+            "projectName": "Proyecto10"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-P104<Proyecto10>",
+            "request": "launch",
+            "mainClass": "P104",
+            "projectName": "Proyecto10"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-P105<Proyecto10>",
+            "request": "launch",
+            "mainClass": "P105",
+            "projectName": "Proyecto10"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-P108<Proyecto10>",
+            "request": "launch",
+            "mainClass": "P108",
+            "projectName": "Proyecto10"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-P109<Proyecto10>",
+            "request": "launch",
+            "mainClass": "P109",
+            "projectName": "Proyecto10"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-p106<Proyecto10>",
+            "request": "launch",
+            "mainClass": "p106",
+            "projectName": "Proyecto10"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-p107<Proyecto10>",
+            "request": "launch",
+            "mainClass": "p107",
+            "projectName": "Proyecto10"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-P111<Proyecto11>",
+            "request": "launch",
+            "mainClass": "P111",
+            "projectName": "Proyecto11"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-P112<Proyecto11>",
+            "request": "launch",
+            "mainClass": "P112",
+            "projectName": "Proyecto11"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-P113<Proyecto11>",
+            "request": "launch",
+            "mainClass": "P113",
+            "projectName": "Proyecto11"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-P114<Proyecto11>",
+            "request": "launch",
+            "mainClass": "P114",
+            "projectName": "Proyecto11"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-P115<Proyecto11>",
+            "request": "launch",
+            "mainClass": "P115",
+            "projectName": "Proyecto11"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-P116<Proyecto11>",
+            "request": "launch",
+            "mainClass": "P116",
+            "projectName": "Proyecto11"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-P117<Proyecto11>",
+            "request": "launch",
+            "mainClass": "P117",
+            "projectName": "Proyecto11"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-P118<Proyecto11>",
+            "request": "launch",
+            "mainClass": "P118",
+            "projectName": "Proyecto11"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-P121<Proyecto12>",
+            "request": "launch",
+            "mainClass": "P121",
+            "projectName": "Proyecto12"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-P122<Proyecto12>",
+            "request": "launch",
+            "mainClass": "P122",
+            "projectName": "Proyecto12"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-P131<Proyecto13>",
+            "request": "launch",
+            "mainClass": "P131",
+            "projectName": "Proyecto13"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-P141<Proyecto14>",
+            "request": "launch",
+            "mainClass": "P141",
+            "projectName": "Proyecto14"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-P142<Proyecto14>",
+            "request": "launch",
+            "mainClass": "P142",
+            "projectName": "Proyecto14"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-qpd<Proyecto14>",
+            "request": "launch",
+            "mainClass": "qpd",
+            "projectName": "Proyecto14"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-P15<Proyecto15>",
+            "request": "launch",
+            "mainClass": "P15",
+            "projectName": "Proyecto15"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Clase1<Proyecto1>",
+            "request": "launch",
+            "mainClass": "Clase1",
+            "projectName": "Proyecto1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Proyecto4<Proyecto4>",
+            "request": "launch",
+            "mainClass": "Proyecto4",
+            "projectName": "Proyecto4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Digitos<Proyecto7.1>",
+            "request": "launch",
+            "mainClass": "Digitos",
+            "projectName": "Proyecto7.1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EstructuraConCom<Proyecto7.1>",
+            "request": "launch",
+            "mainClass": "EstructuraConCom",
+            "projectName": "Proyecto7.1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Notas<Proyecto7.1>",
+            "request": "launch",
+            "mainClass": "Notas",
+            "projectName": "Proyecto7.1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Proyecto711<Proyecto7.1>",
+            "request": "launch",
+            "mainClass": "Proyecto711",
+            "projectName": "Proyecto7.1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Condicionalsimple<Proyecto7>",
+            "request": "launch",
+            "mainClass": "Condicionalsimple",
+            "projectName": "Proyecto7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Clase2<Proyectodefinitivo>",
+            "request": "launch",
+            "mainClass": "Clase2",
+            "projectName": "Proyectodefinitivo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SueldoOperario<SueldoOperario>",
+            "request": "launch",
+            "mainClass": "SueldoOperario",
+            "projectName": "SueldoOperario"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SuperficieCuadrado<SuperficieCuadrado>",
+            "request": "launch",
+            "mainClass": "SuperficieCuadrado",
+            "projectName": "SuperficieCuadrado"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-promedio<proyecto8>",
+            "request": "launch",
+            "mainClass": "proyecto8.promedio",
+            "projectName": "proyecto8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-proyecto81<proyecto8>",
+            "request": "launch",
+            "mainClass": "proyecto8.proyecto81",
+            "projectName": "proyecto8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-proyecto82<proyecto8>",
+            "request": "launch",
+            "mainClass": "proyecto8.proyecto82",
+            "projectName": "proyecto8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-proyecto83<proyecto8>",
+            "request": "launch",
+            "mainClass": "proyecto8.proyecto83",
+            "projectName": "proyecto8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-proyecto84<proyecto8>",
+            "request": "launch",
+            "mainClass": "proyecto8.proyecto84",
+            "projectName": "proyecto8"
+        }
+    ]
+}
