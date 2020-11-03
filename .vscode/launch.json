@@ -6,6 +6,43 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Problema",
+            "request": "launch",
+            "mainClass": "Problema"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - P211",
+            "request": "launch",
+            "mainClass": "P211"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - P201",
+            "request": "launch",
+            "mainClass": "P201"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Problema1",
+            "request": "launch",
+            "mainClass": "Problema1",
+            "projectName": "Proyecto4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - P191",
+            "request": "launch",
+            "mainClass": "P191"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - P171",
+            "request": "launch",
+            "mainClass": "P171"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - P164",
             "request": "launch",
             "mainClass": "P164"
