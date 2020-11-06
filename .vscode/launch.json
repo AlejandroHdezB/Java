@@ -6,6 +6,30 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - P232",
+            "request": "launch",
+            "mainClass": "P232"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - P231",
+            "request": "launch",
+            "mainClass": "P231"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Prueba",
+            "request": "launch",
+            "mainClass": "Prueba"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - P221",
+            "request": "launch",
+            "mainClass": "P221"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Problema",
             "request": "launch",
             "mainClass": "Problema"
