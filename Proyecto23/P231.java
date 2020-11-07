@@ -30,10 +30,12 @@ public class P231 {
             for(int c=0;c<m;c++) {
                 System.out.println(mat[f][c]);
         }
+        System.out.println("------------");
         int e=0;
             for(int c=0;c<m;c++) {
                 System.out.println(mat[e][c]);
         }
+        System.out.println("------------");
             for(int v=2;v<m;v++){
                 for(int c=0;c<m;c++){
                 System.out.println(mat[v][c]);

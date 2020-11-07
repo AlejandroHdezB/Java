@@ -6,6 +6,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - P241",
+            "request": "launch",
+            "mainClass": "P241"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - P232",
             "request": "launch",
             "mainClass": "P232"
