@@ -6,6 +6,42 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Prueba3",
+            "request": "launch",
+            "mainClass": "Prueba3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - P252",
+            "request": "launch",
+            "mainClass": "P252"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Problema2",
+            "request": "launch",
+            "mainClass": "Problema2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - P251",
+            "request": "launch",
+            "mainClass": "P251"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MatrizIrregular1",
+            "request": "launch",
+            "mainClass": "MatrizIrregular1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Prueba2",
+            "request": "launch",
+            "mainClass": "Prueba2"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - P241",
             "request": "launch",
             "mainClass": "P241"
